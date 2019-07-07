@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QA>
+  	
+  	<url>https://www.thuisbezorgd.nl/</url>
+  	<!-- Existing User Details   -->
+    <existingUserEmailID>automationsightlineconsilio@gmail.com</existingUserEmailID>
+    <existingUserPassword>Pass@123</existingUserPassword>
+    <existingAddress>#1103, BEML 5th stage, 2nd cro , Bengaluru</existingAddress>
+       
+</QA>	

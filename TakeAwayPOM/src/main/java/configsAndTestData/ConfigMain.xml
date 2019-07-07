@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConfigMain>
+	<env>QA</env><!--Just Change the environment variable to run on different one-->
+	<suite>smoke</suite><!--to run smoke or regression suite-->
+	<browserName>CHROME</browserName>
+	<screenShotOnPass>NO</screenShotOnPass>
+	<screenShotOnFail>YES</screenShotOnFail>
+	<wait30>30000</wait30><!--Normal elements, like pop ups  -->	
+	<wait60>60000</wait60><!--elements like notifications  -->	
+	<wait90>150000</wait90><!--elements like pure hit count  -->	
+	<wait120>120000</wait120><!--batch print elements  -->	
+   
+   
+    
+</ConfigMain>

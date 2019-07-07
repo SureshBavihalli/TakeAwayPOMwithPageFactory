@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="AccountCreations Test Scripts(failed)">
+    <classes>
+      <class name="testScripts.TA_01_AccountCreations">
+        <methods>
+          <include name="tryToLoginWithoutActivatingAccount"/>
+          <include name="takeScreenShot"/>
+          <include name="close"/>
+          <include name="beforeTestMethod"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testScripts.TA_01_AccountCreations -->
+    </classes>
+  </test> <!-- AccountCreations Test Scripts(failed) -->
+  <test name="PlacingOrders Test Scripts(failed)">
+    <classes>
+      <class name="testScripts.TA_03_PlacingOrders">
+        <methods>
+          <include name="takeScreenShot"/>
+          <include name="beforeTestMethod"/>
+          <include name="setup"/>
+          <include name="addMealsToCartInTwoRestaurantsAndOrderFromOne"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- testScripts.TA_03_PlacingOrders -->
+    </classes>
+  </test> <!-- PlacingOrders Test Scripts(failed) -->
+</suite> <!-- Failed suite [Suite] -->

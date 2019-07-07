@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SMOKE TEST DATA -->
+ <TestData>
+ <!-- Serach strings and expected pure hit counts -->
+
+    <!--New user details -->   
+    <newUserName>SureshB</newUserName>
+    <newUserEmailID>au.to.m.ati.on.s.i.ghtlineconsilio@gmail.com</newUserEmailID>
+    <newUserEmailID2>au.to.ma.ti.on.s.i.ghtlineconsilio@gmail.com</newUserEmailID2>
+    <newUserPassword>Pass@123</newUserPassword>
+   
+    <!-- Bank Transaction fee -->
+    <iDEALTrandsactionFee>0.25</iDEALTrandsactionFee>
+    <PayPalTrandsactionFee>0.36</PayPalTrandsactionFee>
+    <VVVCadeaukaartTransactionFee>0.25</VVVCadeaukaartTransactionFee>
+    <CHIPKNIPTrandsactionFee>0.25</CHIPKNIPTrandsactionFee>>
+    
+    <!-- notification messages -->
+    <emailSubjectForAccActivation>Bijna klaar! Bevestig je Thuisbezorgd.nl-account.</emailSubjectForAccActivation>  
+    <confirmationMsgAfterActivation>Je account is geactiveerd! Je kunt nu inloggen.</confirmationMsgAfterActivation>
+    <msgUsingSameActivatedLink>Het verzoek is ongeldig.</msgUsingSameActivatedLink>  
+    <msgAddingExsitingUser>Er bestaat al een account met deze gebruikersnaam (e-mailadres). Klik hier om het wachtwoord op te halen als je deze vergeten bent. Heb je een verkeerd e-mailadres ingevoerd, controleer deze dan en probeer het opnieuw.</msgAddingExsitingUser>
+  	<accountCreationPopUpMsg>Gelukt!</accountCreationPopUpMsg>
+
+	<!-- User account creation messages     -->
+	<NoFieldsEntered>Je gebruikersnaam is niet geldig. De gebruikersnaam moet een geldig e-mailadres zijn.</NoFieldsEntered>
+	<wrongEmail>Je gebruikersnaam is niet geldig. De gebruikersnaam moet een geldig e-mailadres zijn.</wrongEmail>
+	<whenNoPwdProvided>Je wachtwoord moet tenminste 8 tekens lang zijn, zowel hoofdletters als kleine letters en een cijfer of symbool bevatten.</whenNoPwdProvided>
+	<invalidPwd>Je wachtwoord moet tenminste 8 tekens lang zijn, zowel hoofdletters als kleine letters en een cijfer of symbool bevatten.</invalidPwd>
+
+	<!-- Order messages/notifications -->
+	<iDEALorderCancellationMessage>De Ideal betaling is door jou geannuleerd. De bestelling zal niet plaatsvinden. Klik hier om terug te keren naar de afrondpagina om het nog eens te proberen. Hier is het tevens mogelijk een andere betaalmethode selecteren.</iDEALorderCancellationMessage>
+
+</TestData>

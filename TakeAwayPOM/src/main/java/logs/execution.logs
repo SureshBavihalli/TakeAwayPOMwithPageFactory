@@ -1,0 +1,223 @@
+08/07/2019 01:57:42 devpinoyLogger Before Suite is called
+08/07/2019 01:57:42 devpinoyLogger Running scripts on QA
+08/07/2019 01:57:42 devpinoyLogger Test Data is loaded
+08/07/2019 01:57:42 devpinoyLogger Before Suite is called
+08/07/2019 01:57:42 devpinoyLogger Running scripts on QA
+08/07/2019 01:57:42 devpinoyLogger Test Data is loaded
+08/07/2019 01:57:47 devpinoyLogger CHROMEis opned and loading application
+08/07/2019 01:57:50 devpinoyLogger ****************************************************************************************
+08/07/2019 01:57:50 devpinoyLogger ****************************************************************************************
+08/07/2019 01:57:50 devpinoyLogger $$$$$$$$$$$$$$$$$$$$$           Executing  -    createDuplicateAccount       $$$$$$$$$$$$$$$$$$$$$$$$$
+08/07/2019 01:57:50 devpinoyLogger ****************************************************************************************
+08/07/2019 01:57:50 devpinoyLogger ****************************************************************************************
+
+08/07/2019 01:57:50 devpinoyLogger Account is being created for the user : SureshB
+08/07/2019 01:57:50 devpinoyLogger with an email ID : automationsightlineconsilio@gmail.com
+08/07/2019 01:57:59 devpinoyLogger Account with an email ID : automationsightlineconsilio@gmail.com is already exists!
+08/07/2019 01:57:59 devpinoyLogger XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+08/07/2019 01:57:59 devpinoyLogger X
+08/07/2019 01:57:59 devpinoyLogger X
+08/07/2019 01:57:59 devpinoyLogger X
+08/07/2019 01:57:59 devpinoyLogger X
+08/07/2019 01:58:07 devpinoyLogger CHROMEis opned and loading application
+08/07/2019 01:58:10 devpinoyLogger ****************************************************************************************
+08/07/2019 01:58:10 devpinoyLogger ****************************************************************************************
+08/07/2019 01:58:10 devpinoyLogger $$$$$$$$$$$$$$$$$$$$$           Executing  -    madatoryFiledsWhileCreatingAnAccount       $$$$$$$$$$$$$$$$$$$$$$$$$
+08/07/2019 01:58:10 devpinoyLogger ****************************************************************************************
+08/07/2019 01:58:10 devpinoyLogger ****************************************************************************************
+
+08/07/2019 01:58:10 devpinoyLogger Account is being created for the user : 
+08/07/2019 01:58:10 devpinoyLogger with an email ID : 
+08/07/2019 01:58:18 devpinoyLogger Account is being created for the user : Suresh
+08/07/2019 01:58:18 devpinoyLogger with an email ID : 
+08/07/2019 01:58:26 devpinoyLogger Account is being created for the user : Suresh
+08/07/2019 01:58:26 devpinoyLogger with an email ID : sureshb075@gmail.com
+08/07/2019 01:58:33 devpinoyLogger Account is being created for the user : Suresh
+08/07/2019 01:58:33 devpinoyLogger with an email ID : sureshb075gmail.com
+08/07/2019 01:58:40 devpinoyLogger XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+08/07/2019 01:58:40 devpinoyLogger X
+08/07/2019 01:58:40 devpinoyLogger X
+08/07/2019 01:58:40 devpinoyLogger X
+08/07/2019 01:58:40 devpinoyLogger X
+08/07/2019 01:58:48 devpinoyLogger CHROMEis opned and loading application
+08/07/2019 01:58:51 devpinoyLogger ****************************************************************************************
+08/07/2019 01:58:51 devpinoyLogger ****************************************************************************************
+08/07/2019 01:58:51 devpinoyLogger $$$$$$$$$$$$$$$$$$$$$           Executing  -    successfulAccountCreation       $$$$$$$$$$$$$$$$$$$$$$$$$
+08/07/2019 01:58:51 devpinoyLogger ****************************************************************************************
+08/07/2019 01:58:51 devpinoyLogger ****************************************************************************************
+
+08/07/2019 01:58:51 devpinoyLogger Web application launched
+08/07/2019 01:58:51 devpinoyLogger Account is being created for the user : SureshB
+08/07/2019 01:58:51 devpinoyLogger with an email ID : au.to.m.ati.on.s.i.ghtlineconsilio@gmail.com
+08/07/2019 01:59:01 devpinoyLogger Account creation is successful for the user : SureshB
+08/07/2019 01:59:01 devpinoyLogger passed : Bijna klaar! Bevestig je Thuisbezorgd.nl-account.
+08/07/2019 01:59:03 devpinoyLogger e-mail Subject:- Bijna klaar! Bevestig je Thuisbezorgd.nl-account.
+08/07/2019 01:59:04 devpinoyLogger URL read from the email : https://www.thuisbezorgd.nl/verify?token=138b5f752d719afeb5c1&utm_medium=tnx&utm_source=newsletter&utm_campaign=confirmaccount-nl
+08/07/2019 01:59:09 devpinoyLogger XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+08/07/2019 01:59:09 devpinoyLogger X
+08/07/2019 01:59:09 devpinoyLogger X
+08/07/2019 01:59:09 devpinoyLogger X
+08/07/2019 01:59:09 devpinoyLogger X
+08/07/2019 01:59:17 devpinoyLogger CHROMEis opned and loading application
+08/07/2019 01:59:20 devpinoyLogger ****************************************************************************************
+08/07/2019 01:59:20 devpinoyLogger ****************************************************************************************
+08/07/2019 01:59:20 devpinoyLogger $$$$$$$$$$$$$$$$$$$$$           Executing  -    tryToLoginWithoutActivatingAccount       $$$$$$$$$$$$$$$$$$$$$$$$$
+08/07/2019 01:59:20 devpinoyLogger ****************************************************************************************
+08/07/2019 01:59:20 devpinoyLogger ****************************************************************************************
+
+08/07/2019 01:59:20 devpinoyLogger Account is being created for the user : SureshB
+08/07/2019 01:59:20 devpinoyLogger with an email ID : au.to.ma.ti.on.s.i.ghtlineconsilio@gmail.com
+08/07/2019 01:59:29 devpinoyLogger Account creation is successful for the user : SureshB
+08/07/2019 01:59:56 devpinoyLogger Successfully captured a screenshot, please check : C:\Users\SBavihalli\git\FinreachAssignmentGit/Screenshots/TA_01_AccountCreations--tryToLoginWithoutActivatingAccount.png
+08/07/2019 01:59:56 devpinoyLogger XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+08/07/2019 01:59:56 devpinoyLogger X
+08/07/2019 01:59:56 devpinoyLogger X
+08/07/2019 01:59:56 devpinoyLogger X
+08/07/2019 01:59:56 devpinoyLogger X
+08/07/2019 02:00:04 devpinoyLogger Before Suite is called
+08/07/2019 02:00:04 devpinoyLogger Running scripts on QA
+08/07/2019 02:00:04 devpinoyLogger Test Data is loaded
+08/07/2019 02:00:08 devpinoyLogger CHROMEis opned and loading application
+08/07/2019 02:00:08 devpinoyLogger ****************************************************************************************
+08/07/2019 02:00:08 devpinoyLogger ****************************************************************************************
+08/07/2019 02:00:08 devpinoyLogger $$$$$$$$$$$$$$$$$$$$$           Executing  -    addMealsToCartInTwoRestaurantsAndOrderFromOne       $$$$$$$$$$$$$$$$$$$$$$$$$
+08/07/2019 02:00:08 devpinoyLogger ****************************************************************************************
+08/07/2019 02:00:08 devpinoyLogger ****************************************************************************************
+
+08/07/2019 02:00:18 devpinoyLogger Searching for 8889AA.......
+08/07/2019 02:00:27 devpinoyLogger Found 25 restaurants in a given location! Cheers!
+08/07/2019 02:00:28 devpinoyLogger Selected QA Restaurant Selenium
+08/07/2019 02:00:33 devpinoyLogger 12.0
+08/07/2019 02:00:33 devpinoyLogger Cart is validated against added meals/items, order, items prices and total cost looks fine!!
+08/07/2019 02:00:40 devpinoyLogger Found 25 restaurants in a given location! Cheers!
+08/07/2019 02:00:41 devpinoyLogger Selected Pan Pizza Man
+08/07/2019 02:00:46 devpinoyLogger 23.4
+08/07/2019 02:00:46 devpinoyLogger Cart is validated against added meals/items, order, items prices and total cost looks fine!!
+08/07/2019 02:00:53 devpinoyLogger Found 25 restaurants in a given location! Cheers!
+08/07/2019 02:00:55 devpinoyLogger Selected QA Restaurant Selenium
+08/07/2019 02:00:55 devpinoyLogger Cart is validated against added meals/items, order, items prices and total cost looks fine!!
+08/07/2019 02:00:59 devpinoyLogger Address fields are filled
+08/07/2019 02:01:02 devpinoyLogger Transaction cost and total cost on cart looks fine for payment mode Contant
+08/07/2019 02:01:18 devpinoyLogger Searching for 8889AA.......
+08/07/2019 02:01:27 devpinoyLogger Found 25 restaurants in a given location! Cheers!
+08/07/2019 02:01:29 devpinoyLogger Selected Pan Pizza Man
+08/07/2019 02:01:45 devpinoyLogger Successfully captured a screenshot, please check : C:\Users\SBavihalli\git\FinreachAssignmentGit/Screenshots/TA_03_PlacingOrders--addMealsToCartInTwoRestaurantsAndOrderFromOne.png
+08/07/2019 02:01:45 devpinoyLogger XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+08/07/2019 02:01:45 devpinoyLogger X
+08/07/2019 02:01:45 devpinoyLogger X
+08/07/2019 02:01:45 devpinoyLogger X
+08/07/2019 02:01:45 devpinoyLogger X
+08/07/2019 02:01:54 devpinoyLogger CHROMEis opned and loading application
+08/07/2019 02:01:54 devpinoyLogger ****************************************************************************************
+08/07/2019 02:01:54 devpinoyLogger ****************************************************************************************
+08/07/2019 02:01:54 devpinoyLogger $$$$$$$$$$$$$$$$$$$$$           Executing  -    addingItemsToCartInTwoRestaurants       $$$$$$$$$$$$$$$$$$$$$$$$$
+08/07/2019 02:01:54 devpinoyLogger ****************************************************************************************
+08/07/2019 02:01:54 devpinoyLogger ****************************************************************************************
+
+08/07/2019 02:02:02 devpinoyLogger Searching for 8889AA.......
+08/07/2019 02:02:12 devpinoyLogger Found 25 restaurants in a given location! Cheers!
+08/07/2019 02:02:13 devpinoyLogger Selected QA Restaurant Selenium
+08/07/2019 02:02:18 devpinoyLogger 12.0
+08/07/2019 02:02:18 devpinoyLogger Cart is validated against added meals/items, order, items prices and total cost looks fine!!
+08/07/2019 02:02:25 devpinoyLogger Found 25 restaurants in a given location! Cheers!
+08/07/2019 02:02:27 devpinoyLogger Selected Pan Pizza Man
+08/07/2019 02:02:31 devpinoyLogger 23.4
+08/07/2019 02:02:31 devpinoyLogger Cart is validated against added meals/items, order, items prices and total cost looks fine!!
+08/07/2019 02:02:39 devpinoyLogger Found 25 restaurants in a given location! Cheers!
+08/07/2019 02:02:40 devpinoyLogger Selected QA Restaurant Selenium
+08/07/2019 02:02:41 devpinoyLogger Cart is validated against added meals/items, order, items prices and total cost looks fine!!
+08/07/2019 02:02:41 devpinoyLogger XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+08/07/2019 02:02:41 devpinoyLogger X
+08/07/2019 02:02:41 devpinoyLogger X
+08/07/2019 02:02:41 devpinoyLogger X
+08/07/2019 02:02:41 devpinoyLogger X
+08/07/2019 02:02:51 devpinoyLogger CHROMEis opned and loading application
+08/07/2019 02:02:51 devpinoyLogger ****************************************************************************************
+08/07/2019 02:02:51 devpinoyLogger ****************************************************************************************
+08/07/2019 02:02:51 devpinoyLogger $$$$$$$$$$$$$$$$$$$$$           Executing  -    modeOfPayments_TransactionCharges       $$$$$$$$$$$$$$$$$$$$$$$$$
+08/07/2019 02:02:51 devpinoyLogger ****************************************************************************************
+08/07/2019 02:02:51 devpinoyLogger ****************************************************************************************
+
+08/07/2019 02:02:59 devpinoyLogger Searching for 8889AA.......
+08/07/2019 02:03:09 devpinoyLogger Found 25 restaurants in a given location! Cheers!
+08/07/2019 02:03:10 devpinoyLogger Selected QA Restaurant Selenium
+08/07/2019 02:03:14 devpinoyLogger 12.0
+08/07/2019 02:03:15 devpinoyLogger Cart is validated against added meals/items, order, items prices and total cost looks fine!!
+08/07/2019 02:03:20 devpinoyLogger Transaction cost and total cost on cart looks fine for payment mode Contant
+08/07/2019 02:03:24 devpinoyLogger Transaction cost and total cost on cart looks fine for payment mode iDEAL
+08/07/2019 02:03:27 devpinoyLogger Transaction cost and total cost on cart looks fine for payment mode Contant
+08/07/2019 02:03:30 devpinoyLogger Transaction cost and total cost on cart looks fine for payment mode PayPal
+08/07/2019 02:03:33 devpinoyLogger Transaction cost and total cost on cart looks fine for payment mode Contant
+08/07/2019 02:03:37 devpinoyLogger Transaction cost and total cost on cart looks fine for payment mode VVVCadeaukaart
+08/07/2019 02:03:40 devpinoyLogger Transaction cost and total cost on cart looks fine for payment mode Contant
+08/07/2019 02:03:43 devpinoyLogger Transaction cost and total cost on cart looks fine for payment mode CHIPKNIP
+08/07/2019 02:03:43 devpinoyLogger XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+08/07/2019 02:03:43 devpinoyLogger X
+08/07/2019 02:03:43 devpinoyLogger X
+08/07/2019 02:03:43 devpinoyLogger X
+08/07/2019 02:03:43 devpinoyLogger X
+08/07/2019 02:03:55 devpinoyLogger CHROMEis opned and loading application
+08/07/2019 02:03:55 devpinoyLogger ****************************************************************************************
+08/07/2019 02:03:55 devpinoyLogger ****************************************************************************************
+08/07/2019 02:03:55 devpinoyLogger $$$$$$$$$$$$$$$$$$$$$           Executing  -    orderTroughUserAccountUsingContantPaymentMode       $$$$$$$$$$$$$$$$$$$$$$$$$
+08/07/2019 02:03:55 devpinoyLogger ****************************************************************************************
+08/07/2019 02:03:55 devpinoyLogger ****************************************************************************************
+
+08/07/2019 02:04:09 devpinoyLogger Logged into application
+08/07/2019 02:04:13 devpinoyLogger Searching for 8889AA.......
+08/07/2019 02:04:25 devpinoyLogger Found 25 restaurants in a given location! Cheers!
+08/07/2019 02:04:28 devpinoyLogger Selected QA Restaurant Selenium
+08/07/2019 02:04:45 devpinoyLogger 30.59
+08/07/2019 02:04:45 devpinoyLogger Cart is validated against added meals/items, order, items prices and total cost looks fine!!
+08/07/2019 02:04:58 devpinoyLogger Transaction cost and total cost on cart looks fine for payment mode iDEAL
+08/07/2019 02:06:28 devpinoyLogger Transaction cost and total cost on cart looks fine for payment mode Contant
+08/07/2019 02:06:53 devpinoyLogger Logged out
+08/07/2019 02:06:53 devpinoyLogger XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+08/07/2019 02:06:53 devpinoyLogger X
+08/07/2019 02:06:53 devpinoyLogger X
+08/07/2019 02:06:53 devpinoyLogger X
+08/07/2019 02:06:53 devpinoyLogger X
+08/07/2019 02:07:02 devpinoyLogger CHROMEis opned and loading application
+08/07/2019 02:07:02 devpinoyLogger ****************************************************************************************
+08/07/2019 02:07:02 devpinoyLogger ****************************************************************************************
+08/07/2019 02:07:02 devpinoyLogger $$$$$$$$$$$$$$$$$$$$$           Executing  -    placeOrderWithoutAnAccount       $$$$$$$$$$$$$$$$$$$$$$$$$
+08/07/2019 02:07:02 devpinoyLogger ****************************************************************************************
+08/07/2019 02:07:02 devpinoyLogger ****************************************************************************************
+
+08/07/2019 02:07:11 devpinoyLogger Searching for 8889AA.......
+08/07/2019 02:07:20 devpinoyLogger Found 25 restaurants in a given location! Cheers!
+08/07/2019 02:07:21 devpinoyLogger Selected QA Restaurant Selenium
+08/07/2019 02:07:29 devpinoyLogger 18.0
+08/07/2019 02:07:29 devpinoyLogger Cart is validated against added meals/items, order, items prices and total cost looks fine!!
+08/07/2019 02:07:34 devpinoyLogger Address fields are filled
+08/07/2019 02:07:37 devpinoyLogger Transaction cost and total cost on cart looks fine for payment mode Contant
+08/07/2019 02:07:46 devpinoyLogger Order confirmation email is received!, cheers!!
+08/07/2019 02:07:49 devpinoyLogger Order is listed in my orders page!, from restaurant QA Restaurant Selenium
+08/07/2019 02:07:49 devpinoyLogger XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+08/07/2019 02:07:49 devpinoyLogger X
+08/07/2019 02:07:49 devpinoyLogger X
+08/07/2019 02:07:49 devpinoyLogger X
+08/07/2019 02:07:49 devpinoyLogger X
+08/07/2019 02:07:58 devpinoyLogger Before Suite is called
+08/07/2019 02:07:58 devpinoyLogger Running scripts on QA
+08/07/2019 02:07:58 devpinoyLogger Test Data is loaded
+08/07/2019 02:08:03 devpinoyLogger CHROMEis opned and loading application
+08/07/2019 02:08:07 devpinoyLogger ****************************************************************************************
+08/07/2019 02:08:07 devpinoyLogger ****************************************************************************************
+08/07/2019 02:08:07 devpinoyLogger $$$$$$$$$$$$$$$$$$$$$           Executing  -    buttonsOnCart       $$$$$$$$$$$$$$$$$$$$$$$$$
+08/07/2019 02:08:07 devpinoyLogger ****************************************************************************************
+08/07/2019 02:08:07 devpinoyLogger ****************************************************************************************
+
+08/07/2019 02:08:11 devpinoyLogger Searching for 8889AA.......
+08/07/2019 02:08:26 devpinoyLogger Found 25 restaurants in a given location! Cheers!
+08/07/2019 02:08:27 devpinoyLogger Selected QA Restaurant Selenium
+08/07/2019 02:08:36 devpinoyLogger 12.0
+08/07/2019 02:08:36 devpinoyLogger Cart is validated against added meals/items, order, items prices and total cost looks fine!!
+08/07/2019 02:08:36 devpinoyLogger Cart is validated against added meals/items, order, items prices and total cost looks fine!!
+08/07/2019 02:08:36 devpinoyLogger Cart is validated against added meals/items, order, items prices and total cost looks fine!!
+08/07/2019 02:08:56 devpinoyLogger Cart is validated against added meals/items, order, items prices and total cost looks fine!!
+08/07/2019 02:08:56 devpinoyLogger XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+08/07/2019 02:08:56 devpinoyLogger X
+08/07/2019 02:08:56 devpinoyLogger X
+08/07/2019 02:08:56 devpinoyLogger X
+08/07/2019 02:08:56 devpinoyLogger X

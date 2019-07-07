@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<test name="Validate thuisbezorgd.nl test cases"> 
+    
+    <classes><!-- Class to load configs and test data -->
+        <class name="testScripts.Input" ></class>  
+    </classes>
+	</test> 
+ 
+  
+  	<test name="AccountCreations Test Scripts">
+    <classes>
+        <class name="testScripts.TA_01_AccountCreations" ></class>  
+    </classes>
+	</test>  
+	
+	<test name="PlacingOrders Test Scripts">
+    <classes>
+        <class name="testScripts.TA_03_PlacingOrders" ></class>  
+    </classes>
+	</test>  
+	<test name="Cart Test Scripts">
+    <classes>
+        <class name="testScripts.TA_02_CartValidation" ></class>  
+    </classes>
+	</test>  
+	
+    
+  
+</suite> <!-- Suite -->
